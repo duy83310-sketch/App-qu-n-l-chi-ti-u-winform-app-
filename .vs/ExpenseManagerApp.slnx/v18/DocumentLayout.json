@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Du_an_CNTT\\Lap_trinh_net\\ExpenseManagerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5383686C-2EDC-4D1C-8BF1-24300CD7DA8D}|ExpenseManagerApp\\ExpenseManagerApp.csproj|d:\\du_an_cntt\\lap_trinh_net\\expensemanagerapp\\expensemanagerapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5383686C-2EDC-4D1C-8BF1-24300CD7DA8D}|ExpenseManagerApp\\ExpenseManagerApp.csproj|solutionrelative:expensemanagerapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5383686C-2EDC-4D1C-8BF1-24300CD7DA8D}|ExpenseManagerApp\\ExpenseManagerApp.csproj|d:\\du_an_cntt\\lap_trinh_net\\expensemanagerapp\\expensemanagerapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5383686C-2EDC-4D1C-8BF1-24300CD7DA8D}|ExpenseManagerApp\\ExpenseManagerApp.csproj|solutionrelative:expensemanagerapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5383686C-2EDC-4D1C-8BF1-24300CD7DA8D}|ExpenseManagerApp\\ExpenseManagerApp.csproj|d:\\du_an_cntt\\lap_trinh_net\\expensemanagerapp\\expensemanagerapp\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5383686C-2EDC-4D1C-8BF1-24300CD7DA8D}|ExpenseManagerApp\\ExpenseManagerApp.csproj|solutionrelative:expensemanagerapp\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5383686C-2EDC-4D1C-8BF1-24300CD7DA8D}|ExpenseManagerApp\\ExpenseManagerApp.csproj|d:\\du_an_cntt\\lap_trinh_net\\expensemanagerapp\\expensemanagerapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5383686C-2EDC-4D1C-8BF1-24300CD7DA8D}|ExpenseManagerApp\\ExpenseManagerApp.csproj|solutionrelative:expensemanagerapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Du_an_CNTT\\Lap_trinh_net\\ExpenseManagerApp\\ExpenseManagerApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "ExpenseManagerApp\\MainForm.cs",
+              "ToolTip": "D:\\Du_an_CNTT\\Lap_trinh_net\\ExpenseManagerApp\\ExpenseManagerApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "ExpenseManagerApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:19:26.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "D:\\Du_an_CNTT\\Lap_trinh_net\\ExpenseManagerApp\\ExpenseManagerApp\\MainForm.resx",
+              "RelativeDocumentMoniker": "ExpenseManagerApp\\MainForm.resx",
+              "ToolTip": "D:\\Du_an_CNTT\\Lap_trinh_net\\ExpenseManagerApp\\ExpenseManagerApp\\MainForm.resx",
+              "RelativeToolTip": "ExpenseManagerApp\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-17T21:18:59.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Du_an_CNTT\\Lap_trinh_net\\ExpenseManagerApp\\ExpenseManagerApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "ExpenseManagerApp\\MainForm.cs",
+              "ToolTip": "D:\\Du_an_CNTT\\Lap_trinh_net\\ExpenseManagerApp\\ExpenseManagerApp\\MainForm.cs",
+              "RelativeToolTip": "ExpenseManagerApp\\MainForm.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAqwOMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:16:44.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Du_an_CNTT\\Lap_trinh_net\\ExpenseManagerApp\\ExpenseManagerApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ExpenseManagerApp\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Du_an_CNTT\\Lap_trinh_net\\ExpenseManagerApp\\ExpenseManagerApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "ExpenseManagerApp\\MainForm.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:10:11.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
