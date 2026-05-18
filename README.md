@@ -75,7 +75,7 @@ INSERT INTO PaymentMethod (MethodName, Balance) VALUES (N'Cash', 5000000), (N'Ba
 INSERT INTO [Transaction] (TransactionDate, Amount, CategoryID, MethodID, Notes, UserName) VALUES 
 (GETDATE(), 50000, 1, 1, N'Lunch', 'Duy Nguyen'),
 (GETDATE(), 10000000, 2, 2, N'Monthly Salary', 'Duy Nguyen');
-
+```
 **Bước 2: Cấu hình kết nối (Chuỗi kết nối)**
 1. Mở solution `ExpenseManagerApp.slnx` bằng Visual Studio.
 2. Mở file `DatabaseConnection.cs`.
