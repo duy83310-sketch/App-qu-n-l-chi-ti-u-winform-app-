@@ -87,8 +87,4 @@ INSERT INTO [Transaction] (TransactionDate, Amount, CategoryID, MethodID, Notes,
 3. Nhấn `Ctrl + Shift + B` để Build dự án.
 4. Nhấn `F5` hoặc chạy file `ExpenseManagerApp.exe` trong thư mục `bin/Release/net8.0-windows` để bắt đầu sử dụng.
 
-## 👥 Nhóm phát triển (Đội ngũ)
 
-- **Nguyễn Đức Duy** (Nhóm trưởng) - *Kiến trúc hệ thống, Lập trình chức năng lõi & Giao diện, Kết nối CSDL.*
-- **[Tên Thành Viên 2]** - *Thiết kế CSDL (ERD), Quản lý dữ liệu danh mục/ví & Kiểm thử hệ thống.*
-- **[Tên Thành Viên 3]** - *Phân tích nghiệp vụ, Vẽ thiết kế UI & Viết tài liệu đặc tả.*
